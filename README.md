@@ -1,6 +1,3 @@
-Talabat Clone App
+<h2 style="text-align:center" >Food Recipe App using React Js </h2>
 
-
-![flutter-food-delivery-app](https://admin.ninjascode.com/wp-content/uploads/2025/01/1-scaled.webp) 
- 
- The flutter based food delivery app frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, click here.	
+![food recipe app using react js](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/martha/1.webp)
